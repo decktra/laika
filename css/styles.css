@@ -2200,7 +2200,8 @@ small,
   ========================================
 */
 .text-mask-light {
-  background-image: url(../img/backgrounds/home-background-01.jpg);
+  /*background-image: url(../img/backgrounds/home-background-01.jpg);*/
+  background-color: black;
   background-position: 50% 50%;
   background-size: cover;
   text-align: center;
@@ -2546,7 +2547,8 @@ body {
   width: 400px;
 }
 .home-bg {
-  background-image: url(../img/backgrounds/home-background-01.jpg);
+  /*background-image: url(../img/backgrounds/home-background-01.jpg);*/
+  background-color: black;
 }
 /* 
  Home section Owl slider Backgrounds

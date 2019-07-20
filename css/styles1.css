@@ -24,10 +24,14 @@
  Body text
  -------------------------
  */
+@font-face {
+  src: url(../fonts/nasalization.ttf);
+  font-family: nasalization;
+}
 body {
   color: #0c0c17;
   overflow-x: hidden;
-  font: 300 14px/21px 'Open Sans', sans-serif, Helvetica, Arial, sans-serif;
+  font: 300 14px/21px Helvetica, Arial, sans-serif;
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
   -webkit-overflow-scrolling: touch;
@@ -870,7 +874,7 @@ hr {
   ========================================
 */
 .font-second {
-  font-family: 'Lato', sans-serif;
+  font-family: 'nasalization', sans-serif;
   text-transform: capitalize;
 }
 /* 

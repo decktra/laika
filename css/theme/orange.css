@@ -3,6 +3,7 @@
  General Theme
  -------------------------
  */
+
 a {
   color: #ff4c05;
   text-decoration: none;
@@ -1567,4 +1568,8 @@ li.comment-item {
 }
 .work-detail {
   color: #757a86;
+}
+
+.red-laika {
+  color: #dd361c;
 }
